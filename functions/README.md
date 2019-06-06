@@ -1,0 +1,1 @@
+Functions are custom step definition macros. These are the gluw between the high level workflows and the applicaiton under test. The goal is to keep the features loosly coupled from the application for as long as possible, and functions are an essential piece for this.
