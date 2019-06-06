@@ -1,6 +1,9 @@
 Properties: []
 Templates: []
-Events: []
+Events:
+- Name: First
+- Name: Second1
+- Name: Second2
 States: []
 ExistingDomainObjects: []
 Key: bas-test
