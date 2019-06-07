@@ -1,6 +1,7 @@
 Properties: []
 Templates: []
-Events: []
+Events:
+- Name: Watching
 States: []
 ExistingDomainObjects: []
 Key: viewer
