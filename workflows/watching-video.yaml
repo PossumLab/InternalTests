@@ -1,0 +1,15 @@
+Participants:
+- DomainObjectId: video
+  StateIds: []
+  EventStates:
+  - EventId: video.indexed
+- DomainObjectId: viewer
+  StateIds: []
+  EventStates:
+  - EventId: viewer.watching
+- DomainObjectId: creator
+  StateIds: []
+  EventStates: []
+Rules: []
+Key: watching-video
+Name: Watching Video
