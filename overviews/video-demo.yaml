@@ -1,4 +1,12 @@
-WorkflowIds: []
-Participants: []
+WorkflowIds:
+- upload
+- watching-video
+Participants:
+- DomainObjectId: video
+  StateIds: []
+- DomainObjectId: viewer
+  StateIds: []
+- DomainObjectId: creator
+  StateIds: []
 Key: video-demo
 Name: Video Demo
