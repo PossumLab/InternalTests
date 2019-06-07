@@ -1,0 +1,17 @@
+Participants:
+- DomainObjectId: video
+  StateIds: []
+  EventStates:
+  - EventId: video.created
+  - StateId: video.made available
+- DomainObjectId: viewer
+  StateIds: []
+  EventStates: []
+- DomainObjectId: creator
+  StateIds: []
+  EventStates:
+  - EventId: creator.notified of upload
+  - EventId: creator.notified of available
+Rules: []
+Key: upload
+Name: Upload
