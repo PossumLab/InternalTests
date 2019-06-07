@@ -1,7 +1,10 @@
 Properties: []
 Templates: []
-Events: []
-States: []
+Events:
+- Name: Created
+- Name: Indexed
+States:
+- Name: Made Available
 ExistingDomainObjects: []
 Key: video
 Name: Video
