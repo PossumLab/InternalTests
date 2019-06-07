@@ -1,0 +1,11 @@
+Participants:
+- DomainObjectId: overview-new
+  StateIds: []
+  EventStates: []
+- DomainObjectId: overview-new-2
+  StateIds: []
+  EventStates:
+  - EventId: overview-new-2.sdfsdfsd
+Rules: []
+Key: sdfsdf
+Name: Sdfsdf
