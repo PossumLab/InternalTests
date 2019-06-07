@@ -1,10 +1,12 @@
 Properties: []
 Templates: []
 Events:
+- Name: A
 - Name: First
 - Name: Second1
 - Name: Second2
-States: []
+States:
+- Name: F
 ExistingDomainObjects: []
 Key: bas-test
 Name: Bas Test
