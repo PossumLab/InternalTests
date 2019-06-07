@@ -1,7 +1,10 @@
 Properties: []
 Templates: []
-Events: []
-States: []
+Events:
+- Name: H
+- Name: Sdfsdfsd
+States:
+- Name: I
 ExistingDomainObjects: []
 Key: overview-new-2
 Name: Overview New 2
