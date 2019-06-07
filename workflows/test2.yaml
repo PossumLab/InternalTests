@@ -1,0 +1,11 @@
+Participants:
+- DomainObjectId: bas-test
+  StateIds: []
+  EventStates: []
+- DomainObjectId: other
+  StateIds: []
+  EventStates:
+  - EventId: other.t
+Rules: []
+Key: test2
+Name: Test2
