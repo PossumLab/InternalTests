@@ -1,4 +1,14 @@
-WorkflowIds: []
-Participants: []
+WorkflowIds:
+- identificaition
+- prepartation
+Participants:
+- DomainObjectId: sage
+  StateIds: []
+- DomainObjectId: company
+  StateIds: []
+- DomainObjectId: presenter
+  StateIds: []
+- DomainObjectId: mentor
+  StateIds: []
 Key: sage
 Name: Sage
