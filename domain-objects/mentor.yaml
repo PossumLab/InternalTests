@@ -1,6 +1,7 @@
 Properties: []
 Templates: []
-Events: []
+Events:
+- Name: Assigned
 States: []
 ExistingDomainObjects: []
 Key: mentor
