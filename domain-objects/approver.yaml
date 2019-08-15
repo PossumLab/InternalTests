@@ -1,6 +1,8 @@
 Properties: []
 Templates: []
-Events: []
+Events:
+- Name: Approving
+- Name: Reviewing Application
 States: []
 ExistingDomainObjects: []
 Key: approver
