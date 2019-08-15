@@ -1,0 +1,26 @@
+Participants:
+- DomainObjectId: approver
+  StateIds: []
+  ExcludedStateIds: []
+  EventStates:
+  - EventId: approver.reviewing application
+- DomainObjectId: manager
+  StateIds: []
+  ExcludedStateIds: []
+  EventStates: []
+- DomainObjectId: application
+  StateIds: []
+  ExcludedStateIds: []
+  EventStates:
+  - StateId: application.in process
+- DomainObjectId: account
+  StateIds: []
+  ExcludedStateIds: []
+  EventStates: []
+- DomainObjectId: card
+  StateIds: []
+  ExcludedStateIds: []
+  EventStates: []
+Rules: []
+Key: application-is-reviewed
+Name: Application Is Reviewed
