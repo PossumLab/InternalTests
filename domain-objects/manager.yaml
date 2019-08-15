@@ -1,6 +1,7 @@
 Properties: []
 Templates: []
-Events: []
+Events:
+- Name: Approving
 States: []
 ExistingDomainObjects: []
 Key: manager
