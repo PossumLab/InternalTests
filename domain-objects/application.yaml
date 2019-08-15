@@ -1,7 +1,11 @@
 Properties: []
 Templates: []
-Events: []
-States: []
+Events:
+- Name: Recieved
+States:
+- Name: Approved
+- Name: In Process
+- Name: In-Queue
 ExistingDomainObjects: []
 Key: application
 Name: Application
