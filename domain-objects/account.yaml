@@ -1,7 +1,9 @@
 Properties: []
 Templates: []
-Events: []
-States: []
+Events:
+- Name: Created
+States:
+- Name: New
 ExistingDomainObjects: []
 Key: account
 Name: Account
