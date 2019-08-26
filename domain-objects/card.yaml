@@ -1,7 +1,10 @@
 Properties: []
 Templates: []
-Events: []
-States: []
+Events:
+- Name: Created
+States:
+- Name: Activated
+- Name: Mailed
 ExistingDomainObjects: []
 Key: card
 Name: Card
