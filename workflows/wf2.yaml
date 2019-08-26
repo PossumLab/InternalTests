@@ -1,0 +1,17 @@
+Participants:
+- DomainObjectId: do1
+  StateIds:
+  - do1.stuff
+  ExcludedStateIds: []
+  EventStates:
+  - EventId: do1.something 2
+  - StateId: do1.stuff 2
+- DomainObjectId: do1do2
+  StateIds: []
+  ExcludedStateIds:
+  - do1do2.stuff 2nd
+  EventStates:
+  - EventId: do1do2.weee
+Rules: []
+Key: wf2
+Name: Wf2
