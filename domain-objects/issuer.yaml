@@ -1,6 +1,7 @@
 Properties: []
 Templates: []
-Events: []
+Events:
+- Name: Notified To Create A New Card
 States: []
 ExistingDomainObjects: []
 Key: issuer
