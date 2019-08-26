@@ -1,7 +1,11 @@
 Properties: []
 Templates: []
-Events: []
-States: []
+Events:
+- Name: Something 1
+- Name: Something 2
+States:
+- Name: Stuff
+- Name: Stuff 2
 ExistingDomainObjects: []
 Key: do1
 Name: Do1
