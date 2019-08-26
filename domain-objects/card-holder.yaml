@@ -1,7 +1,14 @@
 Properties: []
 Templates: []
-Events: []
-States: []
+Events:
+- Name: Activating Card
+- Name: Applying For A New Card
+- Name: Notified Of Acceptance
+- Name: Notified Of Reciept
+- Name: Recieving Card
+States:
+- Name: Created
+- Name: Customer
 ExistingDomainObjects: []
 Key: card-holder
 Name: Card Holder
