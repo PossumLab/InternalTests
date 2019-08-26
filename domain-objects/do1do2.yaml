@@ -1,7 +1,10 @@
 Properties: []
 Templates: []
-Events: []
-States: []
+Events:
+- Name: Other
+- Name: Weee
+States:
+- Name: Stuff 2nd
 ExistingDomainObjects: []
 Key: do1do2
 Name: Do1do2
