@@ -1,9 +1,0 @@
-Properties: []
-Templates: []
-Events:
-- Name: Approving Application
-- Name: Notified Of Work To Do
-States: []
-ExistingDomainObjects: []
-Key: approver
-Name: Approver

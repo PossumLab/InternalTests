@@ -1,9 +1,0 @@
-Properties: []
-Templates: []
-Events: []
-States:
-- Name: Approved
-- Name: Created
-ExistingDomainObjects: []
-Key: application
-Name: Application
