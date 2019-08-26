@@ -1,9 +1,0 @@
-Properties: []
-Templates: []
-Events:
-- Name: Approving
-- Name: Reviewing Application
-States: []
-ExistingDomainObjects: []
-Key: approver
-Name: Approver

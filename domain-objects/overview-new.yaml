@@ -1,9 +1,0 @@
-Properties: []
-Templates: []
-Events:
-- Name: A
-States:
-- Name: C
-ExistingDomainObjects: []
-Key: overview-new
-Name: Overview New

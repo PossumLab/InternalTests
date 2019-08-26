@@ -1,1 +1,0 @@
-These are manually created features and scnearios to test specific conditions.

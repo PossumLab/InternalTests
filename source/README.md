@@ -1,1 +1,0 @@
-A place to put all generated source files, primarily here to decluther the main repo.

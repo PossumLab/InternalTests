@@ -1,9 +1,0 @@
-Properties: []
-Templates: []
-Events:
-- Name: Notified Of Available
-- Name: Notified Of Upload
-States: []
-ExistingDomainObjects: []
-Key: creator
-Name: Creator

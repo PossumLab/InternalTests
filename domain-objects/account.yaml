@@ -1,9 +1,0 @@
-Properties: []
-Templates: []
-Events:
-- Name: Created
-States:
-- Name: New
-ExistingDomainObjects: []
-Key: account
-Name: Account

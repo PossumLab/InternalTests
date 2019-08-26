@@ -1,8 +1,7 @@
 Properties: []
 Templates: []
-Events:
-- Name: Approving
+Events: []
 States: []
 ExistingDomainObjects: []
-Key: manager
-Name: Manager
+Key: card-holder
+Name: Card Holder

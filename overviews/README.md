@@ -1,1 +1,0 @@
-Workflow sets are the high level overview of what the application does, used in the early phases of development to sketchout requirements. These sets will automatically generate individual workflows and Domain Objects that can be flusehd outduring later phases of development.

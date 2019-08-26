@@ -1,1 +1,0 @@
-These feature files are generated from the workflows, do not edit these as your changes will be lost when the files are regenerated. These feature files will provide the basic happy path of all the different worflows and are automaticaly updated when workflows change.
