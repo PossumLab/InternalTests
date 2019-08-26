@@ -1,7 +1,0 @@
-Feature: Test
-
-
-
-Scenario: 
-
-

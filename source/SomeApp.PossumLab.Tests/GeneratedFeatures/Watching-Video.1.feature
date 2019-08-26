@@ -1,7 +1,0 @@
-Feature: Watching-Video
-
-
-
-Scenario: 
-
-

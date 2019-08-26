@@ -1,7 +1,0 @@
-Feature: New Upload
-
-
-
-Scenario: 
-
-

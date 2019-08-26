@@ -1,7 +1,0 @@
-Feature: Popup
-
-
-
-Scenario: 
-
-
