@@ -1,0 +1,24 @@
+Participants:
+- DomainObjectId: customer
+  StateIds: []
+  ExcludedStateIds: []
+  EventStates: []
+- DomainObjectId: glasses
+  StateIds: []
+  ExcludedStateIds: []
+  EventStates:
+  - StateId: glasses.started
+- DomainObjectId: factory
+  StateIds: []
+  ExcludedStateIds: []
+  EventStates:
+  - EventId: factory.starting creation of glasses
+- DomainObjectId: order
+  StateIds:
+  - order.created
+  ExcludedStateIds: []
+  EventStates:
+  - EventId: order.paid
+Rules: []
+Key: start-manufacturing
+Name: Start Manufacturing
