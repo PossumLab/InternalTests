@@ -1,6 +1,7 @@
 Properties: []
 Templates: []
-Events: []
+Events:
+- Name: Placing Order
 States: []
 ExistingDomainObjects: []
 Key: customer
