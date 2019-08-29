@@ -1,7 +1,9 @@
 Properties: []
 Templates: []
-Events: []
-States: []
+Events:
+- Name: Paid
+States:
+- Name: Created
 ExistingDomainObjects: []
 Key: order
 Name: Order
