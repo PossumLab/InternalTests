@@ -1,7 +1,8 @@
 Properties: []
 Templates: []
 Events: []
-States: []
+States:
+- Name: Started
 ExistingDomainObjects: []
 Key: glasses
 Name: Glasses
