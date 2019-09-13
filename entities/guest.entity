@@ -1,5 +1,7 @@
 Templates: []
-Events: []
+Events:
+- Name: Reserving A Room
+- Name: Searching For A Room
 Characteristics: []
 ExistingEntities: []
 MutuallyExclusiveCharacteristicsSets: []
