@@ -1,9 +1,0 @@
-Properties: []
-Templates: []
-Events:
-- Name: Approved
-States:
-- Name: Completed
-ExistingDomainObjects: []
-Key: dgagsd
-Name: Dgagsd

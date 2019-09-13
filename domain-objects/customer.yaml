@@ -1,8 +1,0 @@
-Properties: []
-Templates: []
-Events:
-- Name: Placing Order
-States: []
-ExistingDomainObjects: []
-Key: customer
-Name: Customer
