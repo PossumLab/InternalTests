@@ -14,7 +14,7 @@ Then the page contains the element 'Possum Labs'
 @scenario-tag @scenario-tag-2
 Scenario Outline: Google Stuff
 I'm a scneario outline description
-And got 2 lines
+with got 2 lines, lines can't start with And, But, Given, When Then
 
 Given navigated to 'http://google.com'
 When entering '<target>' into element 'Search'
