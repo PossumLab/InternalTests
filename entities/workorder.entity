@@ -1,0 +1,7 @@
+Templates: []
+Events: []
+Characteristics: []
+ExistingEntities: []
+MutuallyExclusiveCharacteristicsSets: []
+Key: entities/workorder.entity
+Name: Workorder
