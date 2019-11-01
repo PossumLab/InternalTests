@@ -1,8 +1,0 @@
-Templates: []
-Events: []
-Characteristics:
-- Name: Booked
-ExistingEntities: []
-MutuallyExclusiveCharacteristicsSets: []
-Key: entities/room.entity
-Name: Room
