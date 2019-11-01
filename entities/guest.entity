@@ -1,9 +1,0 @@
-Templates: []
-Events:
-- Name: Reserving A Room
-- Name: Searching For A Room
-Characteristics: []
-ExistingEntities: []
-MutuallyExclusiveCharacteristicsSets: []
-Key: entities/guest.entity
-Name: Guest
