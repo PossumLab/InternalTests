@@ -1,5 +1,7 @@
 Templates: []
-Events: []
+Events:
+- Name: Boxed
+- Name: Created
 Characteristics: []
 ExistingEntities: []
 MutuallyExclusiveCharacteristicsSets: []
